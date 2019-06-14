@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>false</display_title>
+        <internal_name>software_set</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 08:03:18</sys_created_on>
+        <sys_id>06a5f368db8e33002a9c1120399619b9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>software set</sys_name>
+        <sys_package display_value="sindu it" source="x_366663_sindu_it">bbcbfd10db0233002a9c1120399619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu it">bbcbfd10db0233002a9c1120399619ad</sys_scope>
+        <sys_update_name>item_option_new_set_06a5f368db8e33002a9c1120399619b9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 08:03:18</sys_updated_on>
+        <title>software set</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

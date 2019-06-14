@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="39cfa214db8233002a9c11203996190f" sys_domain="global" table="x_366663_sindu_it_log_incident" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:19:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b5cfa214db8233002a9c112039961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366663_sindu_it_log_incident" name="x_366663_sindu_it_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">39cfa214db8233002a9c11203996190f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_366663_sindu_it_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">bdcfa214db8233002a9c11203996190d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:19:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:19:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>71cfa214db8233002a9c112039961912</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366663_sindu_it_log_incident" name="x_366663_sindu_it_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">39cfa214db8233002a9c11203996190f</sys_ui_form>
+            <sys_ui_section caption="ess user info" display_value="ess user info" name="x_366663_sindu_it_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">75cfa214db8233002a9c11203996190e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:19:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:19:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75cfa214db8233002a9c112039961915</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_366663_sindu_it_log_incident" name="x_366663_sindu_it_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">39cfa214db8233002a9c11203996190f</sys_ui_form>
+            <sys_ui_section caption="user info" display_value="user info" name="x_366663_sindu_it_log_incident" sys_domain="global" view="783811707420330078509adcc48c87a3">7dcfa214db8233002a9c11203996190e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:19:21</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_366663_sindu_it_log_incident</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 08:19:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>39cfa214db8233002a9c11203996190f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366663_sindu_it_log_incident</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="sindu it" source="x_366663_sindu_it">bbcbfd10db0233002a9c1120399619ad</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="sindu it">bbcbfd10db0233002a9c1120399619ad</sys_scope>
+            <sys_update_name>sys_ui_form_sections_39cfa214db8233002a9c11203996190f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 08:19:21</sys_updated_on>
+            <sys_user/>
+            <view display_value="Self Service" name="ess">783811707420330078509adcc48c87a3</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

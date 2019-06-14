@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-12 05:25:17</sys_created_on>
+        <sys_id>f22197ecdb0e33002a9c112039961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>induit service catalog</sys_name>
+        <sys_package display_value="sindu it" source="x_366663_sindu_it">bbcbfd10db0233002a9c1120399619ad</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="sindu it">bbcbfd10db0233002a9c1120399619ad</sys_scope>
+        <sys_update_name>sc_catalog_f22197ecdb0e33002a9c112039961940</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-12 05:25:17</sys_updated_on>
+        <title>induit service catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=f22197ecdb0e33002a9c112039961940"/>
+</record_update>

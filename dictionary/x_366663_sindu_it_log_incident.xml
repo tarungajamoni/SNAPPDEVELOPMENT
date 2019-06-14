@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Log incident" max_length="40" name="x_366663_sindu_it_log_incident" sizeclass="1" type="collection">
+        <element default="Test Default" label="sindu col1" max_length="100" name="sindu_col1" type="string"/>
+        <element display="true" label="sindu col2" max_length="100" name="sindu_col2" read_only="true" type="string"/>
+    </element>
+</database>

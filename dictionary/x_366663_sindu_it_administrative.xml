@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="administrative1" max_length="40" name="x_366663_sindu_it_administrative" type="collection">
+        <element label="dept" max_length="40" name="dept" type="string"/>
+        <element label="dept id" max_length="40" name="dept_id" type="float"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+    </element>
+</database>
